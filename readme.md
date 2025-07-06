@@ -17,7 +17,7 @@
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-<a href="mailto:stepnicka012@aqui.com">
+<a href="mailto:stepnicka012@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -29,7 +29,7 @@ Soy <strong>Santiago Stepnicka Nicolás</strong>, desarrollador Fullstack (Front
 Trabajo sobre <strong>Ubuntu</strong> y aplico <strong>principios de código abierto, modularidad e independencia técnica</strong> en todos mis proyectos.<br/>
 <br/>
 Mis proyectos destacados:<br/>
-- <a href="https://github.com/novastepstudios/StepLauncher">StepLauncher</a>: Launcher profesional para Minecraft hecho con Electron y React.<br/>
+- <a href="https://github.com/novastepstudios/StepLauncher">StepLauncher</a>: Launcher profesional para Minecraft hecho con Electron.<br/>
 - <a href="https://github.com/novastepstudios/minecraft-core-master">minecraft-core-master</a>: Núcleo técnico avanzado para gestionar versiones y mods de Minecraft.<br/>
 <br/>
 Lenguajes y tecnologías con las que trabajo:<br/>
@@ -64,7 +64,7 @@ Actualmente enfocado en potenciar la experiencia de usuario y facilitar la perso
 Si estás interesado en mi trabajo, aquí algunas formas de conectar conmigo o apoyarme:
 
 ❤️ **Trabajo / Colaboraciones**: Ofrece proyectos o colabora vía LinkedIn o email  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:stepnicka012@aqui.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:stepnicka012@gmail.com)
 
 ❤️ **Sígueme** en GitHub y otras redes para ver mi progreso y nuevos proyectos:  
 [![GitHub followers](https://img.shields.io/github/followers/novastepstudios?label=Follow&style=social)](https://github.com/novastepstudios)  
