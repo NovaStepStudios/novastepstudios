@@ -30,7 +30,14 @@ Trabajo sobre <strong>Ubuntu</strong> y aplico <strong>principios de código abi
 <br/>
 Mis proyectos destacados:<br/>
 - <a href="https://github.com/novastepstudios/StepLauncher">StepLauncher</a>: Launcher profesional para Minecraft hecho con Electron.<br/>
-- <a href="https://github.com/novastepstudios/minecraft-core-master">minecraft-core-master</a>: Núcleo técnico avanzado para gestionar versiones y mods de Minecraft.<br/>
+- <a href="https://github.com/novastepstudios/minecraft-core-master" target="_blank" rel="noopener noreferrer">minecraft-core-master</a>: Núcleo técnico avanzado para gestionar versiones y mods de Minecraft.<br/>
+  <a href="https://www.npmjs.com/package/minecraft-core-master" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/npm/v/minecraft-core-master.svg" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/minecraft-core-master" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/npm/dt/minecraft-core-master.svg" alt="npm downloads" />
+  </a>
+
 <br/>
 Lenguajes y tecnologías con las que trabajo:<br/>
 JavaScript, CSS, HTML, Node.js, Electron, Firebase, Java, Python, Git, VSCode, NPM, Ubuntu.<br/>
