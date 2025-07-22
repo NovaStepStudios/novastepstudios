@@ -76,6 +76,13 @@ Si estás interesado en mi trabajo, aquí algunas formas de conectar conmigo o a
 ❤️ **Sígueme** en GitHub y otras redes para ver mi progreso y nuevos proyectos:  
 [![GitHub followers](https://img.shields.io/github/followers/novastepstudios?label=Follow&style=social)](https://github.com/novastepstudios)  
 
+❤️ **Apoyame** para seguir mejorando y darte mejoras :) :  
+Mercado Pago :
+ - CVU : 0000003100051190149138
+ - Alias : stepnickasantiago
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/novastepstudios)
+
 ---
 
 ### 📊 GitHub Stats
