@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Santiago Stepnicka Nicolás 👨‍💻
+### Hola 👋, soy Santiago Stepnicka Nicolás 👨‍💻
+
 <br/>
 
 <a href="https://instagram.com/stepnickast">
@@ -21,75 +22,71 @@
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 <p>
-Soy <strong>Santiago Stepnicka Nicolás</strong>, desarrollador Fullstack (Front & Backend) apasionado por crear software poderoso y estético usando <em>JavaScript, Node.js, Electron, React</em> y tecnologías afines.<br/>
-Trabajo sobre <strong>Ubuntu</strong> y aplico <strong>principios de código abierto, modularidad e independencia técnica</strong> en todos mis proyectos.<br/>
+Soy <strong>Santiago Stepnicka Nicolás</strong>, desarrollador Fullstack con pasión por construir software potente, modular y visualmente atractivo usando <em>JavaScript, Node.js, Electron</em> y otras tecnologías afines.<br/>
+Trabajo principalmente en <strong>Ubuntu</strong> y aplico <strong>principios de código abierto, modularidad e independencia técnica</strong> en cada proyecto que creo.<br/>
 <br/>
-Mis proyectos destacados:<br/>
-- <a href="https://github.com/novastepstudios/StepLauncher">StepLauncher</a>: Launcher profesional para Minecraft hecho con Electron.<br/>
-- <a href="https://github.com/novastepstudios/minecraft-core-master" target="_blank" rel="noopener noreferrer">minecraft-core-master</a>: Núcleo técnico avanzado para gestionar versiones y mods de Minecraft.<br/>
+Algunos de mis proyectos favoritos:
+- <a href="https://github.com/novastepstudios/StepLauncher">StepLauncher</a>: Un launcher profesional para Minecraft hecho con Electron, pensado para usuarios exigentes.<br/>
+- <a href="https://github.com/novastepstudios/minecraft-core-master" target="_blank" rel="noopener noreferrer">minecraft-core-master</a>: Núcleo técnico avanzado que facilita la gestión de versiones y mods de Minecraft.<br/>
   <a href="https://www.npmjs.com/package/minecraft-core-master" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/npm/v/minecraft-core-master.svg" alt="npm version" />
   </a>
   <a href="https://www.npmjs.com/package/minecraft-core-master" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/npm/dt/minecraft-core-master.svg" alt="npm downloads" />
   </a>
-
 <br/>
-Lenguajes y tecnologías con las que trabajo:<br/>
-JavaScript, CSS, HTML, Node.js, Electron, Firebase, Java, Python, Git, VSCode, NPM, Ubuntu.<br/>
+Me gusta trabajar con estas tecnologías:
+JavaScript, TypeScript, CSS, HTML, Node.js, Electron, Java, Python, Git<br/>
 <br/>
-Actualmente enfocado en potenciar la experiencia de usuario y facilitar la personalización y optimización en cada proyecto.<br/>
+Actualmente, me concentro en mejorar la experiencia de usuario, hacer que cada proyecto sea personalizable y optimizar cada detalle del software que desarrollo.
 </p>
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="230" />
 
 ---
 
-### 🛠️ Languages & Tools
+### Lenguajes y herramientas que uso
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-
----
-
-### 👣 Next Steps
-
-Si estás interesado en mi trabajo, aquí algunas formas de conectar conmigo o apoyarme:
-
-❤️ **Trabajo / Colaboraciones**: Ofrece proyectos o colabora vía LinkedIn o email  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:stepnicka012@gmail.com)
-
-❤️ **Sígueme** en GitHub y otras redes para ver mi progreso y nuevos proyectos:  
-[![GitHub followers](https://img.shields.io/github/followers/novastepstudios?label=Follow&style=social)](https://github.com/novastepstudios)  
-
-❤️ **Apoyame** para seguir mejorando y darte mejoras :) :  
-Mercado Pago :
- - CVU : 0000003100051190149138
- - Alias : stepnickasantiago
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/novastepstudios)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square\&logo=Typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square\&logo=electron)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square\&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square\&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square\&logo=ubuntu)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square\&logo=npm)
 
 ---
 
-### 📊 GitHub Stats
+### Cómo conectar conmigo
+
+Si te interesa mi trabajo, aquí algunas formas de contacto y apoyo:
+
+❤️ **Colaboraciones**: ¿Tienes un proyecto interesante? Conversemos por email o LinkedIn.
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square\&logo=gmail\&logoColor=white)](mailto:stepnicka012@gmail.com)
+
+❤️ **Sígueme** para ver mi progreso y nuevos proyectos:
+[![GitHub followers](https://img.shields.io/github/followers/novastepstudios?label=Follow\&style=social)](https://github.com/novastepstudios)
+
+❤️ **Apóyame** para seguir creando mejoras y nuevas herramientas:
+Mercado Pago:
+
+* CVU: 0000003100051190149138
+* Alias: stepnickasantiago
+
+---
+
+### Estadísticas de GitHub
 
 | <a href="https://github.com/novastepstudios"><img src="https://github-readme-stats.vercel.app/api?username=novastepstudios&show_icons=true&hide_border=true&theme=radical" alt="Santiago's GitHub stats" /></a> | <a href="https://github.com/novastepstudios"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novastepstudios&layout=compact&hide_border=true&theme=radical" alt="Top Languages" /></a> |
-| --- | --- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
----
-
-⭐️ From [Santiago Stepnicka](https://github.com/novastepstudios)
